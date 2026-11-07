@@ -1,2 +1,2 @@
 npm
-ru
+run
