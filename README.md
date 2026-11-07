@@ -5,4 +5,4 @@ npm
 build
 install
 git fix errors
-git
+git clear
