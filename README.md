@@ -1,3 +1,3 @@
 npm
 run
-d
+de
