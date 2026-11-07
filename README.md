@@ -6,4 +6,4 @@ build
 install
 git fix errors
 git clear cache
-git
+git push
