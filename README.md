@@ -4,3 +4,4 @@ dev
 npm
 build
 install
+git
