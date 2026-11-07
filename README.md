@@ -1,4 +1,4 @@
 npm
 run
 dev
-np
+npm
